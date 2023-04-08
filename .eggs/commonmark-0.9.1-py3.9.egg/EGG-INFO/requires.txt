@@ -1,0 +1,4 @@
+
+[test]
+flake8==3.7.8
+hypothesis==3.55.3

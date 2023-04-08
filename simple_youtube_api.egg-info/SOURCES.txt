@@ -1,0 +1,7 @@
+README.rst
+setup.py
+simple_youtube_api.egg-info/PKG-INFO
+simple_youtube_api.egg-info/SOURCES.txt
+simple_youtube_api.egg-info/dependency_links.txt
+simple_youtube_api.egg-info/requires.txt
+simple_youtube_api.egg-info/top_level.txt
