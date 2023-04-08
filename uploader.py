@@ -9,7 +9,7 @@ ssl._create_default_https_context = ssl._create_unverified_context
 
 
 username = 'ai.powered.dreams'
-password = 'Scientificporpoiseblue17'
+password = 'password'
 
 import os
 if os.path.isfile("./config/ai.powered.dreams_uuid_and_cookie.json"):
